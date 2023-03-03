@@ -23,7 +23,7 @@ function countPrimes(n) {
     
 };
 
-// console.log(countPrimes(10))
+console.log(countPrimes(10))
 console.log(checkPrime(5))
 
 //It's working on vs code editor but tle in leetcode 
